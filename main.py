@@ -1,3 +1,3 @@
 print('hello world')
 print('finally i have light')
-print("Добртй вечір Татьяна")
+print("Добрий вечір Татьяна")
